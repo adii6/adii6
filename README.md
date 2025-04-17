@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @adii6
-- 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning ML models
+- 👀 I’m interested in integrating working of ML models and finance
+- 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on Artificial Intellegence 
-- 📫 How to reach me 2k22.csai.221401@gmail.com
+- 📫 How to reach me srivastava4work@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Sports
 
